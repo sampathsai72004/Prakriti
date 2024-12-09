@@ -38,6 +38,16 @@ The Prakriti is a digital platform designed to bridge the gap between physical h
   <img src="assets/search.jpg" width="200" />
 </div>
 
+## 🛠 Usage
+
+Once the application is up and running, you can explore the following features:
+
+- **Search for plants** by their common names or medicinal uses.
+- **Explore 3D models** to view plants from different angles.
+- **Interactive UI** for seamless navigation and user experience.
+- **Engage in the Community Chat** to connect with other herbal enthusiasts.
+
+
 ### **Explore Category Page**
 <div style="display: flex; justify-content: space-around;">
   <img src="assets/cat.jpg" width="200" style="margin-right: 20px;" />
