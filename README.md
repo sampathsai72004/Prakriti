@@ -29,19 +29,21 @@ The Prakriti is a digital platform designed to bridge the gap between physical h
 - **Share Knowledge and Insights**: Ask questions, share experiences, and discuss medicinal plants in real-time.
 
 ---
-📸 Screenshots
-### **Explore Home Page with interactive UI** 
-<img src="assets/home.jpg" width="300" />
-### **Explore Community chat page** 
-<img src="assets/community.jpg" width="300" />
-### **Explore Search Page** 
-<img src="assets/search.jpg" width="300" />
-### **Explore Category Page** 
-<img src="assets/cat.jpg" width="300" />
-### **Explore Plant Detail Page** 
-<img src="assets/plant_detail.jpg" width="300" />
-### **Explore 3d Model Page** 
-<img src="assets/3d.jpg" width="300" />
+## 📸 Screenshots
+
+### **Explore Home Page with interactive UI**
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/home.jpg" width="300" />
+  <img src="assets/community.jpg" width="300" />
+  <img src="assets/search.jpg" width="300" />
+</div>
+
+### **Explore Category Page**
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/cat.jpg" width="300" />
+  <img src="assets/plant_detail.jpg" width="300" />
+  <img src="assets/3d.jpg" width="300" />
+</div>
 
 
 
