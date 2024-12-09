@@ -33,15 +33,15 @@ The Prakriti is a digital platform designed to bridge the gap between physical h
 
 ### **Explore Home Page with interactive UI**
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/home.jpg" width="300" style="margin-right: 10px;" />
-  <img src="assets/community.jpg" width="300" style="margin-right: 10px;" />
-  <img src="assets/search.jpg" width="300" />
+  <img src="assets/home.jpg" width="200" style="margin-right: 20px;" />
+  <img src="assets/community.jpg" width="200" style="margin-right: 20px;" />
+  <img src="assets/search.jpg" width="200" />
 </div>
 
 ### **Explore Category Page**
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/cat.jpg" width="300" style="margin-right: 10px;" />
-  <img src="assets/plant_detail.jpg" width="300" style="margin-right: 10px;" />
-  <img src="assets/3d.jpg" width="300" />
+  <img src="assets/cat.jpg" width="200" style="margin-right: 20px;" />
+  <img src="assets/plant_detail.jpg" width="200" style="margin-right: 20px;" />
+  <img src="assets/3d.jpg" width="200" />
 </div>
 
