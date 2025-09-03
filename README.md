@@ -56,4 +56,7 @@ Once the application is up and running, you can explore the following features:
 - **Interactive UI** for seamless navigation and user experience.
 - **Engage in the Community Chat** to connect with other herbal enthusiasts.
 
+## 🎥 Demo Video
+
+[Watch the Prakriti Demo Video](https://drive.google.com/file/d/1wH62ylOFG95U8n4-G4OIYDtFRNxVze0T/view?usp=sharing)
 
